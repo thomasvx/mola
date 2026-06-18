@@ -1,6 +1,6 @@
 # Mola
 
-Mola geeft inzicht in toetsen en toetsresultaten.
+_Mola_ geeft inzicht in toetsen en toetsresultaten.
 
 * Voer antwoorden en een antwoordmodel in, of importeer resultaten.  
 * Bekijk de kwaliteit van vragen.  
