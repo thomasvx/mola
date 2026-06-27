@@ -1,8 +1,9 @@
 <h1 align="center">Mola</h1>
 
 <p align="center">
-  <em>Je voert antwoorden in. Je ziet wat ertoe doet.</em>
+  <em>Voer antwoorden in. Krijg nieuwe inzichten.</em>
 </p>
+<br>
 
 * Voer antwoorden en een antwoordmodel in, of importeer resultaten.  
 * Groepeer vragen, vraagsoorten, en leerlingen. Ontdek patronen.  
