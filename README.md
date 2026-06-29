@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td width="25%">
-        Bekijk 3 weergaves. Deel ze als plaatje met leerlingen.
+        Krijg overzichten van een klas of leerling. Deel ze als plaatje met leerlingen.
       </td>
       <td width="75%">
         <img src="https://github.com/user-attachments/assets/84fa2798-4bb2-46e8-9d21-6268399ad078" width="100%" style="border:8px solid white;"/>
@@ -39,7 +39,7 @@
     </tr>    
     <tr>
       <td width="25%">
-        Bekijk de score per vraag.
+        Bekijk de scores en antwoorden per vraag.
       </td>
       <td width="75%">
         <img src="https://github.com/user-attachments/assets/10c6031c-02d5-42d4-a2f5-52f838e07b2a" width="100%" style="border:8px solid white;"/>
