@@ -5,6 +5,8 @@
 </p>
 <br>
 
+[Download _Mola_ hier.](https://github.com/thomasvx/mola/releases/download/v261114/mola_setup.exe)
+
 * Voer antwoorden en een antwoordmodel in, of importeer resultaten.  
 * Groepeer vragen, vraagsoorten, en leerlingen. Ontdek patronen.  
 * Maak rapporten en deel ze.
